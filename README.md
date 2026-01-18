@@ -1,24 +1,13 @@
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-wherewhere
-wherewhere
-wherewhere
-wherewhere                                                                                                                    wherewhere
-wherewhere                                             wherewherewherewherewherewherewherewherewherewherewherewherewherewhere wherewhere
-                                                            wherewherewherewherewherewherewherewherewherewherewherewhere      wherewhere
-wherewhere                                                   wherewherewherewherewherewherewherewherewherewherewherewh        wherewhere
-wherewhere                                                     wherewherewherewherewherewherewherewherewherewherewhe          wherewhere
-wherewhere                                             wherewherewherewherewherewherewherewherewherewherewherewherewherewhere wherewhere
-wherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
-
-wherewhere
-wherewhere
-wherewhere
-wherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewherewhere
+__     ___       _      _   
+\ \   / (_) ___ | | ___| |_ 
+ \ \ / /| |/ _ \| |/ _ \ __|
+  \ V / | | (_) | |  __/ |_ 
+   \_/  |_|\___/|_|\___|\__|
+                            
+   ____                                       
+  / ___|  ___ _ __ __ _ _ __  _ __   ___ _ __ 
+  \___ \ / __| '__/ _` | '_ \| '_ \ / _ \ '__|
+   ___) | (__| | | (_| | |_) | |_) |  __/ |   
+  |____/ \___|_|  \__,_| .__/| .__/ \___|_|   
+                       |_|   |_|              
+All rights reserved - 2026 - 2027
